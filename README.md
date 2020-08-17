@@ -12,5 +12,5 @@
 - 283移动零
 - 1两数之和
 - 有效的数独
-- 旋转图像![题目](https://leetcode-cn.com/problems/rotate-image/solution/48xuan-zhuan-tu-xiang-by-wulin-v/)
+- 旋转图像[题目](https://leetcode-cn.com/problems/rotate-image/solution/48xuan-zhuan-tu-xiang-by-wulin-v/)
 
