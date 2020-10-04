@@ -31,15 +31,19 @@
 - [合并两个有序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/solution/jian-zhi-offer-25-he-bing-liang-ge-pai-xu-de-li-17/)(list)
 - [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/solution/234-hui-wen-lian-biao-by-wulin-v/)(双指针)
 - [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/solution/141-huan-xing-lian-biao-by-wulin-v/)(双指针)
->第四章 树(更新中)
-- [二叉树的最大深度]()
-- [验证二叉搜索树]()
-- [对称二叉树]()
+>第四章 树(更新完毕)
+- [二叉树的最大深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/solution/er-cha-shu-de-zui-da-shen-du-by-wulin-v/)
+- [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/solution/98-yan-zheng-er-cha-sou-suo-shu-by-wulin-v/)
+- [对称的二叉树](https://leetcode-cn.com/problems/symmetric-tree/solution/101-dui-cheng-er-cha-shu-by-wulin-v/)
 - [二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/solution/102er-cha-shu-ceng-xu-bian-li-by-wulin-v/)
 - [将有序的数组转化为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/solution/108-jiang-you-xu-shu-zu-zhuan-hua-wei-er-cha-sou-s/)
->第五章 排序和搜索(待更新)
--
->第六章 动态规划(待更新)
--
->第七章 设计问题(待更新)
+>第五章 排序和搜索(更新完毕)
+- [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/solution/88-he-bing-liang-ge-you-xu-shu-zu-by-wulin-v/)\
+- [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/solution/278-di-yi-ge-cuo-wu-de-ban-ben-by-wulin-v/)
+>第六章 动态规划(更新完毕)
+- [参见动态规划专题]()
+>第七章 设计问题(更新完毕)
+- [打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/solution/384-da-luan-shu-zu-by-wulin-v-2/)
+- [最小栈](https://leetcode-cn.com/problems/min-stack/solution/155-zui-xiao-zhan-by-wulin-v/)
+>数学(更新完毕)
 -
